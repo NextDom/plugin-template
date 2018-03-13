@@ -132,5 +132,5 @@ foreach (object::all() as $object) {
 </div>
 </div>
 
-<?php include_file('desktop', 'template', 'js', 'template');?>
+<?php include_file('desktop', 'Template', 'js', 'Template');?>
 <?php include_file('core', 'plugin.template', 'js');?>
