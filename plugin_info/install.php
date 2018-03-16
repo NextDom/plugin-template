@@ -31,4 +31,3 @@ function Template_remove() {
 
 }
 
-?>
