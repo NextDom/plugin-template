@@ -1,5 +1,5 @@
 {
-  "plugins\/template\/desktop\/php\/template.php": {
+  "plugins\/Template\/desktop\/php\/Template.php": {
     "Action": "Action",
     "Activer": "Activate",
     "Ajouter": "Add",
@@ -21,7 +21,7 @@
     "Type": "Type",
     "Visible": "Visible"
   },
-  "plugins\/template\/plugin_info\/configuration.php": {
+  "plugins\/Template\/plugin_info\/configuration.php": {
     "Global param 1": "First global parameter",
     "Global param 2": "Second global parameter",
     "Global param 3": "Third global parameter",

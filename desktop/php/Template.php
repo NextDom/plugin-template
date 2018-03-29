@@ -2,7 +2,7 @@
 if (!isConnect('admin')) {
     throw new \Exception('{{401 - Accès non autorisé}}');
 }
-$plugin = plugin::byId('template');
+$plugin = plugin::byId('Template');
 sendVarToJS('eqType', $plugin->getId());
 $eqLogics = eqLogic::byType($plugin->getId());
 ?>
@@ -165,5 +165,5 @@ $eqLogics = eqLogic::byType($plugin->getId());
 </div>
 
 <?php
-include_file('desktop', 'template', 'js', 'template');
+include_file('desktop', 'template', 'js', 'Template');
 include_file('core', 'plugin.template', 'js');
