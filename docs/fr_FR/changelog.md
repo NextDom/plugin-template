@@ -25,11 +25,11 @@
 
 ### Détail des changements
 
-Détail complet des mises à jour sur [Historique Commit](https://github.com/Jeedom-Plugins-Extra/plugin-template/commits/master)
+Détail complet des mises à jour sur [Historique Commit](https://github.com/Jeedom-Plugins-Extra/plugin-Template/commits/master)
 
 # Bug
 
 En cas de problèmes avec ce plugin il est possible d'ouvrir un ticket pour demander une correction :
 
-[https://github.com/Jeedom-Plugins-Extra/plugin-template/issues](https://github.com/Jeedom-Plugins-Extra/plugin-template/issues)
+[https://github.com/Jeedom-Plugins-Extra/plugin-Template/issues](https://github.com/Jeedom-Plugins-Extra/plugin-Template/issues)
 ~~Remplacer le lien vers le bugtracker du plugin~~

@@ -133,7 +133,7 @@ Exemple :
 
 ```
     {
-        "id" : "template",
+        "id" : "Template",
         "name" : "Template",
         "description" : "Plugin template pour la création de plugin",
         "licence" : "AGPL",
